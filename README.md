@@ -1,6 +1,6 @@
 # Alarma-termica-remota---ATR
 
-[texto a mostrar](#mi-titulo-a-anclar)
+## Identificación-de-problemas
 
 | | **Es**	| **Hizo** |	**Puede** |	**Hará** |	**Haría** |	**Podría** |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
