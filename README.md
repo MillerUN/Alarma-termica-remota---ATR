@@ -1,6 +1,6 @@
 # Alarma térmica remota (ATR)
 ## Equipo de trabajo
-G.A. Angulo S., M.A. Cubillos H., J.M. Marín M., J.S. Monje M., J.S. Quecan H., W.A. Quiroga H., M.F. Triviño C.
+G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A. Quiroga H, M.F. Triviño C.
 
 ## Identificación de problemas
 
