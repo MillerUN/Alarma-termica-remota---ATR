@@ -1,7 +1,7 @@
 # Alarma-termica-remota---ATR
 | | Es	| Hizo |	Puede |	Hará |	Haría |	Podría |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Quién |
+| Quién | Empresas, familias y agricultores |
 | Qué |
 | Dónde |
 | Cuándo |
