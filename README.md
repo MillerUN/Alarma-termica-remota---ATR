@@ -1,4 +1,4 @@
-# Alarma-termica-remota---ATR
+# Alarma termica remota (ATR)
 
 ## Identificación-de-problemas
 
