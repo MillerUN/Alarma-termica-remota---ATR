@@ -1,5 +1,5 @@
 # Alarma-termica-remota---ATR
-| ---- | Es	| Hizo |	Puede |	Hará |	Haría |	Podría |
+| | Es	| Hizo |	Puede |	Hará |	Haría |	Podría |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Quién |
 | Qué |
