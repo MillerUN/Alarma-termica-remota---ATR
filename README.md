@@ -1,6 +1,7 @@
 # Alarma-termica-remota---ATR
 
-[texto a mostrar](#Identificación-del-problema)
+[texto a mostrar](#mi-titulo-a-anclar)
+
 | | **Es**	| **Hizo** |	**Puede** |	**Hará** |	**Haría** |	**Podría** |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Quién | Empresas, familias y agricultores | Enrique Hernández | Propietario de unidad de refrigeración con conocimiento acerca del proceso a monitorear | Estudiantes de sistemas embebidos | | Personas  con  capacidad de programar , entender el  hardware   y el software del  sistema |
