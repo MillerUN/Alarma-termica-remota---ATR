@@ -1,6 +1,6 @@
-# Alarma termica remota (ATR)
+# Alarma térmica remota (ATR)
 
-## Identificación-de-problemas
+## Identificación de problemas
 
 | | **Es**	| **Hizo** |	**Puede** |	**Hará** |	**Haría** |	**Podría** |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
