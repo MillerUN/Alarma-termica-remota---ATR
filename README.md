@@ -13,9 +13,10 @@ G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A.
 | Por qué | Fallos en sistema de refrigeración o posibles fugas térmicas. | Mejorar eficiencia en cultivos de flores para mejorar exportaciones del país. | La temperatura puede variar conforme a diferentes factores al interior de la unidad, fugas u obstrucciones. | En vista de una problemática existente en la cual puede existir pérdidas economicas a causa de variaciones abruptas en la temperatura y humedad en almientos u otro tipo de elementos. | El control eficiente de temperatura y humedad es un imperativo, escalable desde necesidades de confort hasta procesos industriales y el estar en retroalimentación con el usuario, genera una sensación de confiablidad y eficacia en el hogar o empresa. | Por fallas relacionadas por el sistema de control o  los dispositivos de refrigeración. |
 | Cómo | Ante cualquier falencia evitar abrir las puertas de la unidad de refrigeración. | Desarrollo de tesis. | Dejando las puertas abiertas, falta de mantenimiento, exceso de almacenamiento. | Empleando conocimientos en herramientas informáticas y trabajando en equipo. | Por medio de sensores, microcontroladores, microprocesadores, Fpga, aplicativos y bases de datos. | Beneficiar a empresas del sector agroindustrial, por medio de determinar de cómo influye la temperatura, en el correcto crecimiento de los cultivos. |
 
-##Diagrama de causa y efecto
-
+## Diagrama de causa y efecto
+### Diagrama general
  ![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/Diagrama.PNG)
+### Diagramas específicos
  ![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/Diagrama1.PNG)
  ![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/Diagrama2.PNG)
  ![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/Diagrama3.PNG)
