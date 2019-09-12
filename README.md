@@ -23,5 +23,6 @@ G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A.
 
 ## Descripción del problema
 
-|¿Cuál es el problema clave?¿por qué?|¿Para quién es un problema?|Factores técnicos|Evidencias de que vale la pena realizarlo|¿Existen enfoques diferentes?|
+|**¿Cuál es el problema clave?¿por qué?**|**¿Para quién es un problema?**|**Factores técnicos**|**Evidencias de que vale la pena realizarlo**|**¿Existen enfoques diferentes?**|
+| ---- | ---- | ---- | ---- | ---- |
 |Ausencia de plantas en los hogares. Es importante tener plantas cerca para mejorar la calidad del aire que se respira y con esto el bienestar de las personas.|Personas amantes de las plantas que no tengan una completa diponibilidad de tiempo.|Temperatura, humedad, CO2.|La mala calidad del aire en las ciudades, la calidad de vida de los usuarios y la necesidad de actividades de ocio.|Sí, control inductrial.
