@@ -15,7 +15,7 @@ G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A.
 
 ## Diagrama de causa y efecto
 ### Diagrama general
- ![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/Diagrama.PNG)
+ ![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/Diagrama0.PNG)
 ### Diagramas específicos
  ![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/Diagrama1.PNG)
  ![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/Diagrama2.PNG)
