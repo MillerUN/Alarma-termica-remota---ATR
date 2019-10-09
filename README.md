@@ -36,7 +36,6 @@ G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A.
 |J.M. Marín M., M.A. Cubillos H.|J.M. Marín M., M.A. Cubillos H.|J.M. Marín M., M.A. Cubillos H.|J.S. Monje M., W.A. Quiroga H.|G.A. Angulo S., M.F. Triviño C.|J.S. Quecán H.|J.S. Monje M., W.A. Quiroga H.|M.A. Cubillos H.|
 
 |**Fortalezas**|**Debilidades**|
-| ---- | ---- |
 |Ninguna|Todas|
 |**Oportunidades**|**Amenazas**|
 |¿Qué?|Sí|
