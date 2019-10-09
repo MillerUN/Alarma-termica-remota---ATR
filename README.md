@@ -36,7 +36,12 @@ G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A.
 |J.M. Marín M., M.A. Cubillos H.|J.M. Marín M., M.A. Cubillos H.|J.M. Marín M., M.A. Cubillos H.|J.S. Monje M., W.A. Quiroga H.|G.A. Angulo S., M.F. Triviño C.|J.S. Quecán H.|J.S. Monje M., W.A. Quiroga H.|M.A. Cubillos H.|
 
 |**Fortalezas**|**Debilidades**|
-|Ninguna|Todas|
+| ---- | ---- |
+| iPlantTwo es una iniciativa que vincula lo mejor de tres tecnologías (microcontrolador, microprocesador y FPGA), para brindar a sus usuarios un sistea de alerta en tiempo real.|No se tiene el suficiente conocimiento de plantas y sus necesidades.|
+|Se cuenta con una aplicación móvil, la cual informa al usuario el estado de su planta y recomienda  |Se debe aumentar el conocimiento en la programación de hardware.|
 |**Oportunidades**|**Amenazas**|
-|¿Qué?|Sí|
+|Los usuarios necesitan respirar un aire de mejor calidad, dadas las múltiples alertas por contaminación. iPlantTwo ofrece la oportunidad al incentivar la tenencia de plantas en el hogar.|Las empresas que trabajan este tema tienen ms años de experiencia.|
+|El aprovechamiento de las tecnologías y aplicaciones digitales, implementado al monitoreo de plantas, dándole al usuario facilidad y comodidad a larga distancia para cuidar de sus plantas.|El mercado ya está establecido con ciertas compañías.|
+|La población no cuenta con el tiempo y/o conocimiento necesarios para el cuidado de sus plantas. Con este sistema, se les proporcionará un apoyo en estos dos aspectos.|En el tiempo previsto, integrar todas las partes del proyecto plantea un reto al grupo.|
+||Limitación económica en el desarrollo del prototipo.|
 
