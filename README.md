@@ -27,7 +27,9 @@ G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A.
 | ---- | ---- | ---- | ---- | ---- |
 |Ausencia de plantas en los hogares. Es importante tener plantas cerca para mejorar la calidad del aire que se respira y con esto el bienestar de las personas.|Personas amantes de las plantas que no tengan una completa diponibilidad de tiempo.|Temperatura, humedad, CO2.|La mala calidad del aire en las ciudades, la calidad de vida de los usuarios y la necesidad de actividades de ocio.|Sí, control industrial.| 
 
-## Roles
+### Roles
+
+![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/Embebidos.PNG)
 
 |**Montar red de sensores con FreeRTOS**|**Enviar datos WI-Fi**|**Enviar datos UART**|**Gestionar base de datos**|**Display FPGA**|**Desarrollo aplicación**|**GUI (HTML)**|**Prototipado 3D**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
