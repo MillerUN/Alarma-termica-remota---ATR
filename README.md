@@ -31,6 +31,6 @@ G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A.
 
 |**Montar red de sensores con FreeRTOS**|**Enviar datos WI-Fi**|**Enviar datos UART**|**Gestionar base de datos**|**Display FPGA**|**Desarrollo aplicación**|**GUI (HTML)**|**Prototipado 3D**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|J.M. Marín M., M.A. Cubillos H.|J.M. Marín M., M.A. Cubillos H.|J.M. Marín M., M.A. Cubillos H.|J.S. Monje M., W.A. Quiroga H.|G:A: Angulo S., M.F. Triviño C.|J.S. Quecán H.|J.S. Monje M., W.A. Quiroga H.|M.A. Cubillos H.|
+|J.M. Marín M., M.A. Cubillos H.|J.M. Marín M., M.A. Cubillos H.|J.M. Marín M., M.A. Cubillos H.|J.S. Monje M., W.A. Quiroga H.|G.A. Angulo S., M.F. Triviño C.|J.S. Quecán H.|J.S. Monje M., W.A. Quiroga H.|M.A. Cubillos H.|
 
 
