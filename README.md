@@ -39,6 +39,5 @@ G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A.
 | ---- | ---- |
 |Ninguna|Todas|
 |**Oportunidades**|**Amenazas**|
-| ---- | ---- |
 |¿Qué?|Sí|
 
