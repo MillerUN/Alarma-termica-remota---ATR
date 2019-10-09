@@ -28,14 +28,9 @@ G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A.
 |Ausencia de plantas en los hogares. Es importante tener plantas cerca para mejorar la calidad del aire que se respira y con esto el bienestar de las personas.|Personas amantes de las plantas que no tengan una completa diponibilidad de tiempo.|Temperatura, humedad, CO2.|La mala calidad del aire en las ciudades, la calidad de vida de los usuarios y la necesidad de actividades de ocio.|Sí, control industrial.| 
 
 ## Roles
-G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A. Quiroga H, M.F. Triviño C.
-|**Montar red de sensores con FreeRTOS**|J.M. Marín M., M.A. Cubillos H.|
-|**Enviar datos WI-Fi**|J.M. Marín M., M.A. Cubillos H.|
-|**Enviar datos UART**|J.M. Marín M., M.A. Cubillos H.|
-|**Gestionar base de datos**|J.S. Monje M., W.A. Quiroga H.|
-|**Display FPGA**|G:A: Angulo S., M.F. Triviño C.|
-|**Desarrollo aplicación**|J.S. Quecán H.|
-|**GUI (HTML)**|J.S. Monje M., W.A. Quiroga H.|
-|**Prototipado 3D**|M.A. Cubillos H.|
+
+|**Montar red de sensores con FreeRTOS**|**Enviar datos WI-Fi**|**Enviar datos UART**|**Gestionar base de datos**|**Display FPGA**|**Desarrollo aplicación**|**GUI (HTML)**|**Prototipado 3D**|
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|J.M. Marín M., M.A. Cubillos H.|J.M. Marín M., M.A. Cubillos H.|J.M. Marín M., M.A. Cubillos H.|J.S. Monje M., W.A. Quiroga H.|G:A: Angulo S., M.F. Triviño C.|J.S. Quecán H.|J.S. Monje M., W.A. Quiroga H.|M.A. Cubillos H.|
 
 
